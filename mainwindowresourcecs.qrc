@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="font">
+    <file>arial.ttf</file>
+  </qresource>
+</RCC>
